@@ -2,7 +2,7 @@
   "name": "infinite-scroll-search-giphy",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://Ajay-K-Singh.github.io/Infinite-Scroll-Giphy", 
+  "homepage": "http://ajay-k-singh.github.io/Infinite-Scroll-Giphy", 
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.1.1",
     "@fortawesome/free-regular-svg-icons": "^6.1.1",
